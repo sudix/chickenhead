@@ -5,7 +5,7 @@ Description
 
 `chickenhead` is a simple CLI snippet tool.
 
-In japanese, `とりあたま`(chiken head) means having a bad memory.
+In japanese, `とりあたま`(chicken head) means having a bad memory.
 And I have a bad memory.
 
 Snippet Files
@@ -141,7 +141,7 @@ $ chickenhead view go/http/static_server
 
 ### search
 
-Serch snippets whose contents includes the query.
+Search snippets whose contents includes the query.
 This command use [the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) or [the_silver_searcher](https://github.com/ggreer/the_silver_searcher)  internally,
 so you need to install one of them.
 
@@ -153,9 +153,9 @@ Aliases
 =============
 
 `chickenhead` is too long to remember, so I recommend to use aliases.
-Use list command with [peco](https://github.com/peco/peco) or [percol](https://github.com/mooz/percol) is very usefl.
+Using list command with [peco](https://github.com/peco/peco) or [percol](https://github.com/mooz/percol) is very useful.
 
-### Aliases example
+### Alias examples
 
 ```
 alias cha="chickenhead add"
